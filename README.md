@@ -1,6 +1,6 @@
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
 
-## Hello <img src="./hi.gif" width="28px" alt="waving hand" />
+## Hey, I'm Hoang <img src="./hi.gif" width="28px" alt="waving hand" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanminhhoang&label=MyProfileViews&color=blue&style=plastic%22%20alt=%22vanminhhoang" /> </p>
 
